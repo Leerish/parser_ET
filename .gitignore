@@ -1,0 +1,4 @@
+/venv
+/src/data/resume.pdf
+
+/resume_parser/__pycache__
